@@ -1,0 +1,58 @@
+.index{
+    height: 100vh;
+    width: 425px;
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/wallpaper.jpg') ;
+    
+    background-size: cover;
+}
+
+.icon {
+    height: 35px;
+}
+
+.no-decoration{
+    text-decoration: none;
+    color: white;
+}
+
+.no-decoration:hover{
+    color: red;
+}
+
+.kategori{
+    background-color: #1368ad9a;
+    background-size: cover;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.menu-bar{
+    background-color: #EEEDE7;
+}
+
+.logo-nav{
+    font-size: 30px;
+    font-weight: 900;
+    font-family:fantasy;
+    padding-left: 20px;
+    color: darkred;
+    text-decoration: none;
+}
+
+.nav{
+    background-color: #EEEDE7;
+}
+
+.page-berita{
+    background-color: #a09ea5;
+}
+
+.image-about{
+    height: 350px;
+}
+
+.image-about img{
+    height: 100%;
+    width: 100%;
+    
+}
